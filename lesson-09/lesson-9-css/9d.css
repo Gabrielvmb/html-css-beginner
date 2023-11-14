@@ -1,0 +1,24 @@
+.yt-card {
+  background-color: rgb(70, 68, 68);
+  border: solid;
+  padding: 8px 8px;
+  border: none;
+  width: 180px;
+  border-radius: 10px;
+}
+
+.title {
+  font-weight: bold;
+  color: whitesmoke;
+  margin-top: 4px;
+  margin-bottom: 2px;
+}
+
+.subtitle {
+  color: rgb(163, 159, 159);
+  font-size: 6px;
+  width: 130px;
+  line-height: 8px;
+  margin-bottom: 2px;
+}
+

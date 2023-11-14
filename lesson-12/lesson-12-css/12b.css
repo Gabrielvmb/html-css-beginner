@@ -1,0 +1,28 @@
+.flexbox {
+  display: flex;
+  flex-direction: row;
+}
+
+.lightblue {
+  background-color: lightblue;
+}
+
+.item1 {
+  width: 50px;
+}
+
+.lightpink {
+  background-color: lightpink;
+}
+
+.item2 {
+  flex: 1;
+}
+
+.lightblue {
+  background-color: lightblue;
+}
+
+.item3 {
+  width: 75px;
+}

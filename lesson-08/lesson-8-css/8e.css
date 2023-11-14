@@ -1,0 +1,42 @@
+p {
+  font-size: 30px;
+  margin-bottom: 10px;
+  font-family: Arial;
+}
+
+input {
+  display: block;
+  margin-bottom: 5px;
+  background-color: rgb(234, 236, 238);
+  border: none;
+  padding: 10px 10px;
+  width: 300px;
+  border-radius: 8px;
+  font-size: 14px;
+}
+
+.destination {
+  margin-bottom: 30px;
+}
+
+.request-button {
+  background-color: black;
+  color: whitesmoke;
+  padding: 18px 18px;
+  border-radius: 5px;
+  border: none;
+  margin-right: 10px;
+  font-weight: bold;
+}
+
+.schedule-button {
+  background-color: rgb(240, 242, 245);
+  border: none;
+  padding: 18px 18px;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+button:hover {
+  cursor: pointer;
+}

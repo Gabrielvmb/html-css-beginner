@@ -1,0 +1,60 @@
+body {
+  height: 3000px;
+}
+
+.header {
+  position: fixed;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  top: 0;
+  left: 0;
+  right: 0;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.left-section {
+  display: flex;
+  align-items: center;
+}
+
+.right-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  right: 0;
+}
+
+.profile-picture {
+  height: 60px;
+  border-radius: 30px;
+  object-fit: cover;
+  margin-right: 5px;
+  width: 60px;
+}
+
+.name {
+  font-weight: bold;
+  font-family: Arial;
+}
+
+.add-button {
+  background-color: rgb(2, 130, 216);
+  color: white;
+  padding: 10px 10px;
+  border: none;
+  border-radius: 8px;
+  margin-right: 10px;
+  font-weight: bold;
+}
+
+.message-button {
+  background-color: rgb(196, 196, 196);
+  padding: 10px 10px;
+  border: none;
+  border-radius: 8px;
+}

@@ -1,0 +1,22 @@
+p {
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+.title {
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 8px;
+}
+
+.underlined-text {
+  text-decoration: underline;
+}
+
+.underline-text:hover {
+  cursor: pointer;
+
+}

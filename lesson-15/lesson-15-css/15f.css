@@ -1,0 +1,46 @@
+
+body {
+  height: 3000px;
+  padding: 10px 10px;
+}
+
+.product-container {
+  display: inline-block;
+  position: relative;
+}
+
+.nike-photo {
+  width: 300px;
+  height: 400px;
+  object-fit: cover;
+}
+
+.promotion {
+  background-color: black;
+  color: white;
+  position: absolute;
+  padding: 5px 5px;
+  right: -5px;
+  top: 15px;
+  font-family: Arial;
+}
+
+.bottom-overlay {
+  position: absolute;
+  background-color: rgba(255, 255, 255, 0.8);
+  bottom: 0;
+  left: 0;
+  right: 0; 
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+/* without the bottom: 0; makes it good as well*/
+
+.add-to-cart-button {
+  padding: 10px 10px;
+  background-color: beige;
+  border-width: 1px;
+  border-style: solid;
+}

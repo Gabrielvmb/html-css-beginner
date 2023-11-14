@@ -1,0 +1,39 @@
+input {
+  margin-top: 0;
+  margin-bottom: 12px;
+  border-width: 0.4px;
+  border-color: rgb(210, 211, 212);
+  border-style: solid;
+  border-radius: 4px;
+  font-size: 15px;
+  padding: 15px 8px;
+}
+
+.firt-name {
+  width: 1000px;
+}
+
+.last-name {
+  width: 40px;
+}
+
+.email {
+  display: block;
+  padding-left: 10px;
+  width: 407px;
+  margin-bottom: 10px;
+}
+
+button {
+  background-color: rgb(54, 135, 216);
+  color: whitesmoke;
+  border-radius: 6px;
+  border: none;
+  padding: 15px 185px;
+  font-size: 18px;
+}
+
+button:hover {
+  cursor: pointer;
+  box-shadow: 2px 2px 6px rgba(0, 0, 0, 1.0);
+}

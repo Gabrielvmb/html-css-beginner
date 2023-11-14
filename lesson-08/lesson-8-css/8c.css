@@ -1,0 +1,27 @@
+img {
+  margin-left: 300px;
+  margin-top: 50px;
+  margin-bottom: 15px;
+  display: block;
+  width: 200px
+}
+
+input {
+  display: block;
+  border: none;
+  width: 280px;
+  padding-left: 10px;
+  padding-right: 16px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 20px;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+  margin-left: 230px;
+}
+
+
+
+
+
+
+

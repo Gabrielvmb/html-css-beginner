@@ -1,0 +1,11 @@
+.text-box-style {
+  border-radius: 11px;
+  font-size: 15px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border-width: 0.8px;
+  border-style: solid;
+  border-color: rgb(167, 167, 167);
+}

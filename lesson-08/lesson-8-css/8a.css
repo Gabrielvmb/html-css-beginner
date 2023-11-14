@@ -1,0 +1,18 @@
+input {
+  margin-top: 0;
+  margin-bottom: 0;
+  display: block;
+}
+
+.name-box {
+  border-color: grey;
+  border-width: 0.4px;
+  border-style: solid;
+  margin-bottom: 5px;
+}
+
+.email-box {
+  border-color: grey;
+  border-width: 0.4px;
+  border-style: solid;
+}

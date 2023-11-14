@@ -1,0 +1,28 @@
+body {
+  height: 3000px;
+}
+
+.close-button {
+  position: absolute;
+  background-color: black;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 10px;
+  left: -10px;
+  top: -18px;
+  border-radius: 40px;
+  height: 20px;
+  width: 20px;
+  font-family: Arial;
+}
+
+.bottom-right {
+  position: fixed;
+  background-color: gray;
+  width: 320px;
+  height: 180px;
+  bottom: 20px;
+  right: 20px; 
+}
